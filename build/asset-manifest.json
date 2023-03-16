@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c0ee8c3.css",
+    "main.js": "/static/js/main.9e76e789.js",
+    "static/media/fondoseungs.jpg": "/static/media/fondoseungs.e72f4b050c2dea38a1af.jpg",
+    "static/media/disco.png": "/static/media/disco.03e221bc7b4ebf4b2384.png",
+    "static/media/hamburger.png": "/static/media/hamburger.31511a243eb28eec3c5f.png",
+    "static/media/repartidores.jpg": "/static/media/repartidores.3f43315e6ba3352b5ebd.jpg",
+    "static/media/telefono.png": "/static/media/telefono.82d679bc8da3d5453c98.png",
+    "static/media/cafe.png": "/static/media/cafe.66795e24178926bc7900.png",
+    "static/media/caja.png": "/static/media/caja.3342256b2e6ee9a446b6.png",
+    "static/media/imagen_play_store.png": "/static/media/imagen_play_store.a941d2457680ad16faec.png",
+    "index.html": "/index.html",
+    "main.6c0ee8c3.css.map": "/static/css/main.6c0ee8c3.css.map",
+    "main.9e76e789.js.map": "/static/js/main.9e76e789.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c0ee8c3.css",
+    "static/js/main.9e76e789.js"
+  ]
+}

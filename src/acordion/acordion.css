@@ -1,0 +1,7 @@
+
+.fondo{
+  background-color: #654ea3;
+  background: -webkit-linear-gradient(to left, #dd5e89, #f7bb97);
+  background: linear-gradient(to left, #dd5e89, #f7bb97);
+  min-height: 50vh;
+}

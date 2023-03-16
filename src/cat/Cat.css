@@ -1,0 +1,23 @@
+.fondo-negro-slyder{background-color:black;color:#ffffff;}
+
+.titulo 
+{  
+  background-color:black;
+  color:#ffffff;
+  font-size:20px;
+  text-align:center;  
+   padding:20px  
+}  
+
+.img  
+{  
+        height: 260px;width:100%  
+}  
+
+.item
+{
+        
+   background-color:red;
+   width:60%;
+
+}

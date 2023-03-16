@@ -1,0 +1,196 @@
+#bajo{margin-top:-17px;padding-bottom:5px;}
+.footer-widget {
+    position: relative;
+    z-index: 9;
+}
+.footer-widget-title {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+.footer-widget-content li {
+    margin-bottom: 20px;
+	list-style:none;
+}
+.footer-widget-content li:last-child {
+    margin-bottom: 0px;
+}
+.footer-widget-content li a {
+    text-decoration:none;
+	color: #999999;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.footer-widget-content li a:hover {
+    color: #fff;
+}
+.footer-newsletter > p {
+    color: #999999;
+    margin: 0;
+}
+.subscribe-form form {
+    position: relative;
+}
+.subscribe-form form input {
+    background: #1e1e1e none repeat scroll 0 0;
+    border: 2px solid transparent;
+    color: #999999;
+    font-size: 12px;
+    height: 45px;
+    padding-left: 30px;
+    padding-right: 55px;
+    position: relative;
+}
+.mc-form .mc-news {
+    display: none;
+}
+.subscribe-form form input::-moz-placeholder {
+    color: #999999;
+    opacity: 1;
+}
+.subscribe-form form input::-webkit-placeholder {
+    color: #999999;
+    opacity: 1;
+}
+.subscribe-form .mc-form .clear {
+    background: rgba(0, 0, 0, 0) ;
+    bottom: 0;
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    z-index: 9999;
+}
+.subscribe-form .clear input {
+    border: medium none;
+    padding: 0;
+    text-indent: -99999px;
+    width: 37px;
+    background-color: transparent;
+}
+.footer-contact > p {
+    color: #999999;
+    margin-bottom: 11px;
+}
+.footer-contact > p span i {
+    font-size: 20px;
+}
+.footer-contact > p span {
+    display: inline-block;
+    width: 33px;
+}
+.footer-contact > p:last-child {
+    margin-bottom: 0px;
+}
+.subscribe-form {
+    margin: 28px 0 40px;
+}
+.copyright > p {
+    color: #999;
+    line-height: 1;
+    margin: 0;
+    letter-spacing: 1px;
+}
+.copyright > p a {
+    color: #fff;
+}
+.copyright > p a:hover {
+    text-decoration: underline;
+}
+
+.footer-widget-title {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+.footer-widget-content li {
+    margin-bottom: 20px;
+}
+.footer-widget-content li:last-child {
+    margin-bottom: 0px;
+}
+.footer-widget-content li a {
+    color: #999999;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.footer-widget-content li a:hover {
+    color: #fff;
+}
+
+.footer-newsletter > p {
+    color: #999999;
+    margin: 0;
+}
+
+.subscribe-form form {
+    position: relative;
+}
+.subscribe-form form input {
+    background: #1e1e1e none repeat scroll 0 0;
+    border: 2px solid transparent;
+    color: #999999;
+    font-size: 12px;
+    height: 45px;
+    padding-left: 30px;
+    padding-right: 55px;
+    position: relative;
+}
+.mc-form .mc-news {
+    display: none;
+}
+.subscribe-form form input::-moz-placeholder {
+    color: #999999;
+    opacity: 1;
+}
+.subscribe-form form input::-webkit-placeholder {
+    color: #999999;
+    opacity: 1;
+}
+.subscribe-form .mc-form .clear {
+    background: rgba(0, 0, 0, 0);
+    bottom: 0;
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    z-index: 9999;
+}
+.subscribe-form .clear input {
+    border: medium none;
+    padding: 0;
+    text-indent: -99999px;
+    width: 37px;
+    background-color: transparent;
+}
+.footer-contact > p {
+    color: #999999;
+    margin-bottom: 11px;
+}
+.footer-contact > p span i {
+    font-size: 20px;
+}
+.footer-contact > p span {
+    display: inline-block;
+    width: 33px;
+}
+.footer-contact > p:last-child {
+    margin-bottom: 0px;
+}
+.subscribe-form {
+    margin: 28px 0 40px;
+}
+.copyright > p {
+    color: #999;
+    line-height: 1;
+    margin: 0;
+    letter-spacing: 1px;
+}
+.copyright > p a {
+    color: #fff;
+}
+.copyright > p a:hover {
+    text-decoration: underline;
+}

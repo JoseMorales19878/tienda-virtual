@@ -1,0 +1,66 @@
+#hastech2 {
+    height: 402px;
+    width: 100%;
+}
+.contact-input-style input {
+    background: transparent none repeat scroll 0 0;
+    border: 1px solid #ececec;
+    color: #666666;
+    font-size: 14px;
+    height: 35px;
+    padding: 0 20px;
+    width: 100%;
+    line-height: 35px;
+}
+.contact-textarea-style textarea {
+    background: transparent none repeat scroll 0 0;
+    border: 1px solid #ececec;
+    color: #666666;
+    font-size: 14px;
+    padding: 0 20px;
+    width: 100%;
+    height: 170px;
+    line-height: 35px;
+}
+.contact-input-style label,
+.contact-textarea-style label {
+    color: #383838;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.contact-title > h4 {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+.contact-btn {
+    background-color: #333;
+    border: 1px solid transparent;
+    color: #fff;
+    display: inline-block;
+    padding: 11px 25px 13px;
+    z-index: 1;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.single-contact-info {
+    display: flex;
+    margin-bottom: 15px;
+}
+.contact-info-icon {
+    width: 35px;
+}
+.contact-info-icon i {
+    color: #383838;
+    font-size: 22px;
+}
+.contact-info-text > p {
+    color: #383838;
+    margin: 0;
+}
+.contact-info-text > p span {
+    font-weight: 600;
+}
